@@ -1,3 +1,12 @@
+#Use Case of This App:-
+## This react-app helps user to find nearby hotels, restaurants and other amazing places nearby, It also shows their rating and what is famous in that.
+##  Apart from that it has feature, so that user can enlarge its range areas and get information about bigger area.
+## It sorts on the basis of ratings given to that place
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
